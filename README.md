@@ -1,2 +1,2 @@
-# Dice-Roller-Program
+# Dice-Roller
 A dice roller program written in Python.
